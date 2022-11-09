@@ -1,0 +1,30 @@
+/Users/mykhailoponochovnyi/C#Labs/LB1/bin/Debug/net6.0/LB1
+/Users/mykhailoponochovnyi/C#Labs/LB1/bin/Debug/net6.0/LB1.deps.json
+/Users/mykhailoponochovnyi/C#Labs/LB1/bin/Debug/net6.0/LB1.runtimeconfig.json
+/Users/mykhailoponochovnyi/C#Labs/LB1/bin/Debug/net6.0/LB1.dll
+/Users/mykhailoponochovnyi/C#Labs/LB1/bin/Debug/net6.0/LB1.pdb
+/Users/mykhailoponochovnyi/C#Labs/LB1/obj/Debug/net6.0/LB1.csproj.AssemblyReference.cache
+/Users/mykhailoponochovnyi/C#Labs/LB1/obj/Debug/net6.0/LB1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mykhailoponochovnyi/C#Labs/LB1/obj/Debug/net6.0/LB1.AssemblyInfoInputs.cache
+/Users/mykhailoponochovnyi/C#Labs/LB1/obj/Debug/net6.0/LB1.AssemblyInfo.cs
+/Users/mykhailoponochovnyi/C#Labs/LB1/obj/Debug/net6.0/LB1.csproj.CoreCompileInputs.cache
+/Users/mykhailoponochovnyi/C#Labs/LB1/obj/Debug/net6.0/LB1.dll
+/Users/mykhailoponochovnyi/C#Labs/LB1/obj/Debug/net6.0/refint/LB1.dll
+/Users/mykhailoponochovnyi/C#Labs/LB1/obj/Debug/net6.0/LB1.pdb
+/Users/mykhailoponochovnyi/C#Labs/LB1/obj/Debug/net6.0/LB1.genruntimeconfig.cache
+/Users/mykhailoponochovnyi/C#Labs/LB1/obj/Debug/net6.0/ref/LB1.dll
+/Users/mykhailoponochovnyi/untitled folder/LB1/bin/Debug/net6.0/LB1
+/Users/mykhailoponochovnyi/untitled folder/LB1/bin/Debug/net6.0/LB1.deps.json
+/Users/mykhailoponochovnyi/untitled folder/LB1/bin/Debug/net6.0/LB1.runtimeconfig.json
+/Users/mykhailoponochovnyi/untitled folder/LB1/bin/Debug/net6.0/LB1.dll
+/Users/mykhailoponochovnyi/untitled folder/LB1/bin/Debug/net6.0/LB1.pdb
+/Users/mykhailoponochovnyi/untitled folder/LB1/obj/Debug/net6.0/LB1.csproj.AssemblyReference.cache
+/Users/mykhailoponochovnyi/untitled folder/LB1/obj/Debug/net6.0/LB1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mykhailoponochovnyi/untitled folder/LB1/obj/Debug/net6.0/LB1.AssemblyInfoInputs.cache
+/Users/mykhailoponochovnyi/untitled folder/LB1/obj/Debug/net6.0/LB1.AssemblyInfo.cs
+/Users/mykhailoponochovnyi/untitled folder/LB1/obj/Debug/net6.0/LB1.csproj.CoreCompileInputs.cache
+/Users/mykhailoponochovnyi/untitled folder/LB1/obj/Debug/net6.0/LB1.dll
+/Users/mykhailoponochovnyi/untitled folder/LB1/obj/Debug/net6.0/refint/LB1.dll
+/Users/mykhailoponochovnyi/untitled folder/LB1/obj/Debug/net6.0/LB1.pdb
+/Users/mykhailoponochovnyi/untitled folder/LB1/obj/Debug/net6.0/LB1.genruntimeconfig.cache
+/Users/mykhailoponochovnyi/untitled folder/LB1/obj/Debug/net6.0/ref/LB1.dll
